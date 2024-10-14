@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Fascinate+Inline&family=SUSE:wght@100..800&display=swap');
+
+.fascinate-font{
+    font-family: "Fascinate Inline", system-ui;
+}
+.suse-font{
+    font-family: "SUSE", system-ui;
+}
+input::placeholder{
+    color: white !important;
+}
+/*--------nav style---------*/
+.hover-txt:hover{
+    color: rgb(220, 220, 9) !important;
+}
+/*--------main style---------*/
+main .hero{
+    width: 100%;
+    height: 100vh;
+    background-image: url(/image/Hero.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+/*--------Upcoming style---------*/
+main .upcoming{
+    width: 100%;
+    background-image: url(/image/Hero\ Girl.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.btn-focus:focus{
+    border: 1px solid yellow !important;
+}
+/*--------Card style---------*/
+.card .image{
+    height: 450px;
+}
+
+.overflow-x-scroll::-webkit-scrollbar{
+    height: 8px;
+}
+.overflow-x-scroll::-webkit-scrollbar-thumb{
+    background-color: yellow;
+    border-radius: 16px;
+}
+.overflow-x-scroll::-webkit-scrollbar-track{
+    background-color: gray;
+    border-radius: 16px;
+}
+/*--------Brightness hover---------*/
+.brightness-hover:hover{
+    filter: brightness(115%);
+}
+/*--------Offcanvas Reponsive---------*/
+@media (max-width: 576px){
+    .offcanvas{
+        width: 80% !important;
+    }
+}
+/*--------Screen star from 1200 and up---------*/
+@media (min-width: 1200px){
+    .overflow-x-scroll{
+        overflow-x: hidden !important;
+    }
+}
+
+/*--------Download content---------*/
+main .download-content{
+    width: 100%;
+    /*height: 100vh; */
+    background-image: url(/image/caed\ downdload\ content.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.icon{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    display: grid;
+    place-content: center;
+    transition: 0.3s ease-in-out;
+    outline: 2px dashed rgb(193, 193, 9) !important;
+}
+.hover-bg:hover{
+    background-color: rgb(193, 193, 9) !important;
+}
+
+/*--------Top rate Movie---------*/
+.top-rate{
+    width: 100%;
+    /*height: 100vh; */
+    background-image: url(/image/top-rated-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/*----Footer----*/
+.footer{
+    width: 100%;
+    /* height: 80vh;
+    border-color:  blue; */
+}
+.email{
+    width: 100%;
+    background-image: url(/image/Footer\ bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.menu{
+    width: 100%;
+    background-image: url(/image/footer\ bg\ 2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-position: center;
+}

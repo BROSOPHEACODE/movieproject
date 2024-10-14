@@ -1,0 +1,21 @@
+/*-------Link Fonts------------*/
+@import url('https://fonts.googleapis.com/css2?family=Fascinate+Inline&family=SUSE:wght@100..800&display=swap');
+.fascinate-font{
+    font-family: "Fascinate Inline", system-ui;
+}
+.suse-font{
+    font-family: "SUSE", system-ui;
+}
+/*--------main style---------*/
+main .heroo{
+    width: 100%;
+    height: 100vh;
+    background-image: url(/image/Hero.jpg);
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+/*--------nav style---------*/
+.hover-txt:hover{
+    color: rgb(220, 220, 9) !important;
+}

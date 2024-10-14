@@ -1,0 +1,164 @@
+ <div class="container-fluid p-0 bg-secondary-subtle">
+            <div class="row m-0 p-0 p-lg-4">
+                <!--Movie card 1-->
+                <div class="col-6 col-md-4 p-0 p-sm-3 col-lg-3 mt-4">
+                    <div class="card shadow">
+                        <img src="https://i.ytimg.com/vi/q518l8xaBHQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCh0RKiUZPc6RJ3R8LZKp4u0dxpug" alt="">
+                        <div class="card-body">
+                            <div class="d-flex justify-content-between align-items-center ">
+                                <h2 class="m-0">Movie name1</h2>
+                                <p class="m-0"><span class="text-primary">0.0</span>/10</p>
+                            </div>
+                            <div class="d-flex justify-content-between align-items-center text-secondary">  
+                                <p class="m-0">LAST UPDATE</p>
+                                <p class="m-0">RUNNING TIME</p>
+                            </div>
+                            <div class="d-flex justify-content-between align-items-center fw-bold">
+                                <p class="m-0">SUN 8 SEPT - 10PM</p>
+                                <p class="m-0">30:00MN</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--Movie card 2-->
+                <div class="col-6 col-md-4 p-0 p-sm-3 col-lg-3 mt-4">
+                    <div class="card shadow">
+                        <img src="https://i.ytimg.com/vi/q518l8xaBHQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCh0RKiUZPc6RJ3R8LZKp4u0dxpug" alt="">
+                        <div class="card-body">
+                            <div class="d-flex justify-content-between align-items-center ">
+                                <h2 class="m-0">Movie name1</h2>
+                                <p class="m-0"><span class="text-primary">0.0</span>/10</p>
+                            </div>
+                            <div class="d-flex justify-content-between align-items-center text-secondary">  
+                                <p class="m-0">LAST UPDATE</p>
+                                <p class="m-0">RUNNING TIME</p>
+                            </div>
+                            <div class="d-flex justify-content-between align-items-center fw-bold">
+                                <p class="m-0">SUN 8 SEPT - 10PM</p>
+                                <p class="m-0">30:00MN</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--Movie card 2-->
+                <div class="col-6 col-md-4 p-0 p-sm-3 col-lg-3 mt-4">
+                    <div class="card shadow">
+                        <img src="https://i.ytimg.com/vi/q518l8xaBHQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCh0RKiUZPc6RJ3R8LZKp4u0dxpug" alt="">
+                        <div class="card-body">
+                            <div class="d-flex justify-content-between align-items-center ">
+                                <h2 class="m-0">Movie name1</h2>
+                                <p class="m-0"><span class="text-primary">0.0</span>/10</p>
+                            </div>
+                            <div class="d-flex justify-content-between align-items-center text-secondary">  
+                                <p class="m-0">LAST UPDATE</p>
+                                <p class="m-0">RUNNING TIME</p>
+                            </div>
+                            <div class="d-flex justify-content-between align-items-center fw-bold">
+                                <p class="m-0">SUN 8 SEPT - 10PM</p>
+                                <p class="m-0">30:00MN</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--Movie card 2-->
+                <div class="col-6 col-md-4 p-0 p-sm-3 col-lg-3 mt-4">
+                    <div class="card shadow">
+                        <img src="https://i.ytimg.com/vi/q518l8xaBHQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCh0RKiUZPc6RJ3R8LZKp4u0dxpug" alt="">
+                        <div class="card-body">
+                            <div class="d-flex justify-content-between align-items-center ">
+                                <h2 class="m-0">Movie name1</h2>
+                                <p class="m-0"><span class="text-primary">0.0</span>/10</p>
+                            </div>
+                            <div class="d-flex justify-content-between align-items-center text-secondary">  
+                                <p class="m-0">LAST UPDATE</p>
+                                <p class="m-0">RUNNING TIME</p>
+                            </div>
+                            <div class="d-flex justify-content-between align-items-center fw-bold">
+                                <p class="m-0">SUN 8 SEPT - 10PM</p>
+                                <p class="m-0">30:00MN</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--Movie card 2-->
+                <div class="col-6 col-md-4 p-0 p-sm-3 col-lg-3 mt-4">
+                    <div class="card shadow">
+                        <img src="https://i.ytimg.com/vi/q518l8xaBHQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCh0RKiUZPc6RJ3R8LZKp4u0dxpug" alt="">
+                        <div class="card-body">
+                            <div class="d-flex justify-content-between align-items-center ">
+                                <h2 class="m-0">Movie name1</h2>
+                                <p class="m-0"><span class="text-primary">0.0</span>/10</p>
+                            </div>
+                            <div class="d-flex justify-content-between align-items-center text-secondary">  
+                                <p class="m-0">LAST UPDATE</p>
+                                <p class="m-0">RUNNING TIME</p>
+                            </div>
+                            <div class="d-flex justify-content-between align-items-center fw-bold">
+                                <p class="m-0">SUN 8 SEPT - 10PM</p>
+                                <p class="m-0">30:00MN</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--Movie card 2-->
+                <div class="col-6 col-md-4 p-0 p-sm-3 col-lg-3 mt-4">
+                    <div class="card shadow">
+                        <img src="https://i.ytimg.com/vi/q518l8xaBHQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCh0RKiUZPc6RJ3R8LZKp4u0dxpug" alt="">
+                        <div class="card-body">
+                            <div class="d-flex justify-content-between align-items-center ">
+                                <h2 class="m-0">Movie name1</h2>
+                                <p class="m-0"><span class="text-primary">0.0</span>/10</p>
+                            </div>
+                            <div class="d-flex justify-content-between align-items-center text-secondary">  
+                                <p class="m-0">LAST UPDATE</p>
+                                <p class="m-0">RUNNING TIME</p>
+                            </div>
+                            <div class="d-flex justify-content-between align-items-center fw-bold">
+                                <p class="m-0">SUN 8 SEPT - 10PM</p>
+                                <p class="m-0">30:00MN</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--Movie card 2-->
+                <div class="col-6 col-md-4 p-0 p-sm-3 col-lg-3 mt-4">
+                    <div class="card shadow">
+                        <img src="https://i.ytimg.com/vi/q518l8xaBHQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCh0RKiUZPc6RJ3R8LZKp4u0dxpug" alt="">
+                        <div class="card-body">
+                            <div class="d-flex justify-content-between align-items-center ">
+                                <h2 class="m-0">Movie name1</h2>
+                                <p class="m-0"><span class="text-primary">0.0</span>/10</p>
+                            </div>
+                            <div class="d-flex justify-content-between align-items-center text-secondary">  
+                                <p class="m-0">LAST UPDATE</p>
+                                <p class="m-0">RUNNING TIME</p>
+                            </div>
+                            <div class="d-flex justify-content-between align-items-center fw-bold">
+                                <p class="m-0">SUN 8 SEPT - 10PM</p>
+                                <p class="m-0">30:00MN</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--Movie card 2-->
+                <div class="col-6 col-md-4 p-0 p-sm-3 col-lg-3 mt-4">
+                    <div class="card shadow">
+                        <img src="https://i.ytimg.com/vi/q518l8xaBHQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCh0RKiUZPc6RJ3R8LZKp4u0dxpug" alt="">
+                        <div class="card-body">
+                            <div class="d-flex justify-content-between align-items-center ">
+                                <h2 class="m-0">Movie name1</h2>
+                                <p class="m-0"><span class="text-primary">0.0</span>/10</p>
+                            </div>
+                            <div class="d-flex justify-content-between align-items-center text-secondary">  
+                                <p class="m-0">LAST UPDATE</p>
+                                <p class="m-0">RUNNING TIME</p>
+                            </div>
+                            <div class="d-flex justify-content-between align-items-center fw-bold">
+                                <p class="m-0">SUN 8 SEPT - 10PM</p>
+                                <p class="m-0">30:00MN</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
